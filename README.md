@@ -5,4 +5,4 @@ The dataset contains all the matches, updated daily, of the Qatar Fifa World Cup
 
 The dataset was obtained through web scraping from www.fifa.com. The data were also cleaned and the unnecessary information were discarded.
 
-Click [here](https://github.com/SomonOlimzoda/FifaWorldCup2022/blob/main/.md) to view my analysis
+Click [here](https://github.com/SomonOlimzoda/FifaWorldCup2022/blob/main/.md) to view my analysis.
